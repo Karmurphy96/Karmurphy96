@@ -54,5 +54,5 @@ I’m also expanding my skills in **Streamlit** and **automation with Python** t
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/karan-ganapathy-a56a88203)
+- 💼 [Linkedin] (www.linkedin.com/in/karan-ganapathy-a56a88203)
 - 📧 karan.ganapathy123@gmail.com  
