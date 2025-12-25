@@ -42,7 +42,7 @@ My focus is on applying **Python, SQL, Tableau, and Spark** to create data-drive
 **Visualization:** Tableau, Power BI, Matplotlib  
 **Big Data:** PySpark, Hive, Google Cloud Dataproc  
 **Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
-**Automation & Reporting:** Excel, Power Automate  
+**Automation & Reporting:** Excel, Power Automate,Azure 
 
 ---
 
