@@ -30,11 +30,10 @@ My focus is on applying **Python, SQL, Tableau, and Spark** to create data-drive
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| 🛒 **E-Commerce Reviews Pipeline (GCP + Spark + Hive + MLlib)** | Built an end-to-end data pipeline and logistic regression model for sentiment classification (AUC 0.91). | PySpark, MLlib, GCP |
+| 🛒 **E-Commerce Reviews Big Data  Pipeline (GCP + Spark + Hive + MLlib)** | Built an end-to-end data pipeline and logistic regression model for sentiment classification (AUC 0.91). | PySpark, MLlib, GCP |
 | 🧠 **AI-Based Medical Image Segmentation (U-Net)** | Deep learning model for medical image segmentation with Dice = 0.89. | PyTorch, TensorFlow |
 | 👔 **IBM HR Analytics** | Tableau dashboard identifying key attrition drivers. | Tableau, Excel |
 | 📦 **Predictive Analytics Project** | Predictive modeling and data exploration for business insights. | Python, Pandas, Scikit-learn |
-| ☁️ **Big Data Pipeline (Semester Project)** | Data ingestion and transformation using PySpark and Hive on Google Cloud Dataproc. | PySpark, Hive, GCP |
 
 ---
 
