@@ -2,19 +2,20 @@
 
 🎓 MSc Data Analytics @ BSBI, Berlin  
 📍 Based in Berlin, Germany  
-💼 Data Analyst | Python | SQL | Tableau | Power BI | Spark | Hive | MLlib  
+💼 Data Analyst | Python | SQL | Tableau | Power BI | Spark | dbt  
 
 
 ##  About Me
-I’m a passionate and curious Data Analyst currently pursuing my Master’s in Data Analytics at the Berlin School of Business and Innovation (BSBI).  
-I enjoy transforming complex data into actionable insights and building end-to-end analytical solutions.
+I am a Data Analyst with experience in data analytics, business intelligence, big data processing, and machine learning. Currently pursuing an MSc in Data Analytics at the Berlin School of Business and Innovation (BSBI), I enjoy transforming complex datasets into actionable business insights through data visualization, statistical analysis, and predictive modeling.
 
-I’m currently **looking for Working Student or Internship opportunities** in:
-- 📊 Data Analytics  
-- 🤖 Data Science  
-- 🧮 Business Intelligence  
+I am actively seeking Full-Time opportunities in:
 
-My focus is on applying **Python, SQL, Tableau, and Spark** to create data-driven business impact.
+📊 Data Analytics
+🤖 Data Science
+📈 Business Intelligence
+⚙️ Analytics Engineering
+
+My focus is on leveraging Python, SQL, Tableau, Power BI, Spark, and Machine Learning to solve business problems and drive data-driven decision-making.
 
 
 
@@ -39,20 +40,43 @@ My focus is on applying **Python, SQL, Tableau, and Spark** to create data-drive
 ---
 
 ## 🧰 Tech Stack  
-**Languages:** Python, SQL, Java  
-**Visualization:** Tableau, Power BI, Matplotlib  
-**Big Data:** PySpark, Hive, Google Cloud Dataproc  
-**Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
-**Automation & Reporting:** Excel, Power Automate,Azure 
+**Languages**: Python, SQL, Java
+
+**Data Analysis**: Pandas, NumPy, Exploratory Data Analysis (EDA), Statistics
+
+**Visualization**: Tableau, Power BI, Matplotlib
+
+**Big Data & Data Engineering**: PySpark, Hive, Google Cloud Dataproc
+
+**Machine Learning**: Scikit-learn, TensorFlow, PyTorch, MLlib
+
+**Data Modeling**: Star Schema, Snowflake Schema, Dimensional Modeling, Data Warehousing Concepts
+
+**Cloud**: Google Cloud Platform (GCP)
+
+**Automation & Reporting**: Excel, Power Automate
+
+**Version Control:** Git, GitHub
 
 ---
 
-## 🎯 Current Goal
-To apply my technical, analytical, and problem-solving skills in a **Working Student or Internship role** in Data Analytics / Data Science in Germany.  
-I’m also expanding my skills in **Streamlit** and **automation with Python** to build smarter dashboards and data pipelines.
+🎯 Current Goal
+To secure a Full-Time Data Analyst, Business Intelligence Analyst, Analytics Engineer, or Data Scientist role in Germany.
+
+I am currently strengthening my expertise in:
+
+🤖 Machine Learning and Predictive Analytics
+🏗️ Data Modeling and Data Warehousing
+⚡ PySpark and Big Data Processing
+📊 Advanced Tableau and Power BI Dashboard Development
+🐍 Python Automation and Analytics Engineering
+☁️ Cloud-Based Data Solutions using Google Cloud Platform (GCP)
+
+My goal is to build scalable data solutions that combine analytics, automation, business intelligence, and machine learning to drive data-informed decision-making.
 
 ---
 
-## 📫 Connect with Me  
-- 💼 [Linkedin] (www.linkedin.com/in/karan-ganapathy-a56a88203)
-- 📧 karan.ganapathy123@gmail.com  
+##📫 Connect with Me
+💼 LinkedIn: www.linkedin.com/in/karan-ganapathy-a56a88203
+📧 Email: karan.ganapathy123@gmail.com
+🐙 GitHub: https://github.com/Karmurphy96
