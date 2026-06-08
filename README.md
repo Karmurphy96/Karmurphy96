@@ -20,10 +20,13 @@ My focus is on applying **Python, SQL, Tableau, and Spark** to create data-drive
 
 ## 📊 Tableau Dashboards
 
-| Project | Description | Live Link |
-|----------|--------------|------------|
-|🧍‍♂️**HR Attrition Dashboard** | HR analytics dashboard showing attrition trends by department, salary, and tenure. | [View on Tableau Public](https://public.tableau.com/views/Project_Visulaization/SalesPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## 📊 Tableau Dashboards
 
+| Project | Description | Live Link |
+|----------|------------|------------|
+| 🧍‍♂️ HR Attrition Dashboard | HR analytics dashboard showing attrition trends by department, salary, and tenure. | View on Tableau Public |
+
+| 🛒 Walmart Product Performance Analysis | Interactive dashboard analyzing ratings, reviews, pricing, categories, and brand performance. | [View on Tableau Public](https://public.tableau.com/views/WalmartProductPerformanceAnalysis/Story1) |
 
 
 ##  Projects
@@ -34,6 +37,7 @@ My focus is on applying **Python, SQL, Tableau, and Spark** to create data-drive
 | 🧠 **AI-Based Medical Image Segmentation (U-Net)** | Deep learning model for medical image segmentation with Dice = 0.89. | PyTorch, TensorFlow |
 | 👔 **IBM HR Analytics** | Tableau dashboard identifying key attrition drivers. | Tableau, Excel |
 | 📦 **Predictive Analytics Project** | Predictive modeling and data exploration for business insights. | Python, Pandas, Scikit-learn |
+| 🛒 **Walmart Product Performance Analysis **| Built interactive dashboards to analyze customer satisfaction, engagement, category performance, and brand performance. | Python, Pandas, Tableau, GitHub |
 
 ---
 
