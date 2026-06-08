@@ -24,9 +24,9 @@ My focus is on applying **Python, SQL, Tableau, and Spark** to create data-drive
 
 | Project | Description | Live Link |
 |----------|------------|------------|
-| 🧍‍♂️ HR Attrition Dashboard | HR analytics dashboard showing attrition trends by department, salary, and tenure. | View on Tableau Public |
+| 🧍‍♂️ HR Attrition Dashboard | HR analytics dashboard showing attrition trends by department, salary, and tenure. | [View on Tableau Public](https://public.tableau.com/views/HRAnalyticsDashboardandStoryKaranGanapathy/HRAnalyticsDashboardStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
-| 🛒 Walmart Product Performance Analysis | Interactive dashboard analyzing ratings, reviews, pricing, categories, and brand performance. | [View on Tableau Public](https://public.tableau.com/views/WalmartProductPerformanceAnalysis/Story1) |
+| 🛒 Walmart Product Performance Analysis | Interactive dashboard analyzing ratings, reviews, pricing, categories, and brand performance. | [View on Tableau Public]([https://public.tableau.com/views/WalmartProductPerformanceAnalysis/Story1](https://public.tableau.com/shared/MPPTMCJ2M?:display_count=n&:origin=viz_share_link)) |
 
 
 ##  Projects
